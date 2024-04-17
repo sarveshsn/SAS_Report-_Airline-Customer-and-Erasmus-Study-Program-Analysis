@@ -5,9 +5,9 @@ options nodate nonumber;
 ods escapechar='^';
 proc odstext;
 p '^{newline 15}';
-p "STAT40840 - FINAL PROJECT" /
+p "SAS PROJECT REPORT" /
 style=[font_size= 20pt fontweight=bold just= c];
-p "Sarvesh Sairam Naik - 22204841" /
+p "Sarvesh Sairam Naik" /
 style=[font_size= 18pt just= c];
 p '^{newline 15}';
 p "I have read and understood the Honesty Code and 
