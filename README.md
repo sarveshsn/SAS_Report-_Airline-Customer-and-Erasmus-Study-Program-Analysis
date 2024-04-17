@@ -42,3 +42,8 @@ I would like to express my gratitude to the instructors and course organizers fo
 
 This project is licensed under the MIT License. Feel free to explore, modify, and adapt the code to suit your needs.
 
+## Author 
+
+- **Sarvesh Sairam Naik**
+
+
