@@ -10,9 +10,6 @@ style=[font_size= 20pt fontweight=bold just= c];
 p "Sarvesh Sairam Naik" /
 style=[font_size= 18pt just= c];
 p '^{newline 15}';
-p "I have read and understood the Honesty Code and 
-have neither received nor given assistance in any way 
-with the work contained in this submission." /
 style=[font_size= 14pt font_style= italic just= c];
 run;
 
