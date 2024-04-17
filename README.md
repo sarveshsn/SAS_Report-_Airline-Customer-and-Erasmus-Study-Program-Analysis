@@ -15,7 +15,6 @@ In this section, I analyzed data related to airline customer satisfaction. The a
 
 In this section, I analyzed data from the Erasmus study program. The analysis includes:
 
-- **Dataset Selection**: I obtained the dataset `erasmus.csv`, which provides details about Erasmus participants.
 - **Descriptive Analysis**: I performed descriptive statistics, graphical summaries, and tables using SAS procedures.
 
 ## Usage
