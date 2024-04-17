@@ -30,9 +30,9 @@ git clone https://github.com/your-username/sas-final-project.git
 
 ## Project Structure
 
-    Code: Contains the SAS script file final_project.sas, where all the data analysis procedures are implemented.
+    Code: Contains the SAS script file SAS Report.sas, where all the data analysis procedures are implemented.
     Data: Includes the datasets used for both studies (airline_customer_data.csv and erasmus.csv), allowing for reproducibility and further exploration.
-    Report: Contains the PDF report final_report.pdf, providing a comprehensive overview of the analysis findings, insights, and visualizations.
+    Report: Contains the PDF report SAS Report.pdf, providing a comprehensive overview of the analysis findings, insights, and visualizations.
 
 ## Acknowledgements
 
