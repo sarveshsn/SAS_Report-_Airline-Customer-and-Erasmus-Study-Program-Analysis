@@ -39,11 +39,9 @@ git clone https://github.com/your-username/sas-final-project.git
 I would like to express my gratitude to the instructors and course organizers for providing valuable guidance and resources throughout this project. Additionally, special thanks to the creators of SAS OnDemand for making it accessible for educational purposes.
 
 ## License
+This project is open-source and available under the [MIT License](LICENSE).
 
-This project is licensed under the MIT License. Feel free to explore, modify, and adapt the code to suit your needs.
+---
 
-## Author 
-
-- **Sarvesh Sairam Naik**
-
-
+**Author:** Sarvesh Sairam Naik  
+**GitHub Repository:** [GitHub Link](https://github.com/sarveshsn)
